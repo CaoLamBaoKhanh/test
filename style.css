@@ -1,0 +1,28 @@
+.Group{
+    margin: 20px;
+    padding: 10px;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    
+    display: flex;
+    justify-content: center;
+}
+table, th,td{
+    border: 1px solid rgb(0, 0, 0);
+}
+.Infor{
+    margin: 20px;
+}
+.Body{
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+button{
+    height: 40px;
+    width: 320px;
+    border-radius: 5px;
+}
